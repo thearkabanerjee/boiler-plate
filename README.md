@@ -26,8 +26,10 @@ This extension is designed to speed up development by eliminating the need to ma
 ## Supported Languages
 
 * C++
+* C
 * JavaScript
 * Python
+* TypeScript
 
 More languages can be added by extending the configuration.
 
