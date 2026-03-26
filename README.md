@@ -2,6 +2,12 @@
 
 A lightweight Visual Studio Code extension that quickly generates boilerplate code for different programming languages using simple trigger commands.
 
+<div align = center>
+
+![boiler-plate](images/functionality.png)
+
+</div>
+
 ## Overview
 
 This extension is designed to speed up development by eliminating the need to manually write repetitive starter code. By typing a short trigger (such as `!cpp`) inside a supported file, the extension inserts a ready-to-use boilerplate template.
