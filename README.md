@@ -9,7 +9,7 @@ This extension is designed to speed up development by eliminating the need to ma
 ## Features
 
 * Instant boilerplate generation for multiple languages
-* Simple trigger-based system (e.g., `!cpp`, `!js`, `!py`)
+* Simple trigger-based system (e.g., `!cpp`, `!js`, `!py`,`!ts`,`!c` and `!java`)
 * Reduces setup time for new files
 * Clean and minimal implementation for easy customization
 
@@ -30,6 +30,7 @@ This extension is designed to speed up development by eliminating the need to ma
 * JavaScript
 * Python
 * TypeScript
+* Java
 
 More languages can be added by extending the configuration.
 
@@ -40,21 +41,21 @@ More languages can be added by extending the configuration.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/boilerplate-extension.git
+   git clone https://github.com/thearkabanerjee/boiler-plate.git
    ```
 2. Navigate into the project:
 
    ```
-   cd boilerplate-extension
+   cd (get-your-file-path-man)/boilerplate-extension
    ```
 3. Install dependencies:
 
    ```
-   npm install
+   npm install (gets you the node modules :)
    ```
-4. Launch the extension:
+4. Launch the extension: (incase you wanna test out)
 
-   * Press `F5` in VS Code to open a new Extension Development Host window
+   * Press `F5` or `fn + F5` for mac in VS Code to open a new Extension Development Host window
 
 ## Usage
 
