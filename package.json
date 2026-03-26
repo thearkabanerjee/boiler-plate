@@ -1,8 +1,16 @@
 {
   "name": "boiler-plate",
   "displayName": "boiler-plate",
-  "description": "generates boilerplate in a second",
+  "description": "Generate boilerplate code for multiple languages using ! triggers",
+  "author":{
+    "name":"Arka Banerjee"
+  },
+  "publisher":"ArkaBanerjee",
   "version": "0.0.1",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/thearkabanerjee/boiler-plate"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
